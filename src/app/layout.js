@@ -13,9 +13,6 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "IMDB clone",
-  icons: {
-    icon: "./favicon.ico", // Path to your favicon
-  },
   description: "This is the IMDb clone",
 };
 
